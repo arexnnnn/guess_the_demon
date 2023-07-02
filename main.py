@@ -1,6 +1,7 @@
 # This is a simple program to guess the correct demon in the Demon Slayer anime
-# The answer's format is lowercase alphabets
-# Just a beginner program to clear up the basics of python
+# You can guess the answer in lowercase format
+# Just a beginner program to clear up the basics
+# I also learned how to add projects to github using pycharm, its almost the same process
 
 print("Which upper moon holds the 3rd spot in Demon Slayer anime?")
 secret_word = "akaza"
